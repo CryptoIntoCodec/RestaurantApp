@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="#00FFFFFF"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:background="@color/colorTextWhite"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:gravity="center"
+            android:padding="16dp"
+            android:text="@string/schedule_a_ride"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/_18sdp" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:hint="@string/choose_a_date"
+            android:padding="12dp"
+            android:singleLine="true"
+            android:textColor="@color/colorSecondaryText"
+            android:textSize="@dimen/_18sdp" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:hint="@string/choose_a_time"
+            android:padding="12dp"
+            android:singleLine="true"
+            android:textColor="@color/colorSecondaryText"
+            android:textSize="@dimen/_18sdp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextWhite"
+                android:id="@+id/cancel"
+                android:background="@color/colorTextBlack"
+
+                android:text="Cancel" />
+
+
+            <Button
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorTextWhite"
+                android:id="@+id/schedule_request"
+                android:background="@drawable/button_corner_bg_green"
+
+                android:text="Schedule" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

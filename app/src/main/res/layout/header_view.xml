@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.foodbox.app.HeaderView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorTransparent"
+    android:orientation="vertical">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/header_view_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/_30sdp"
+        android:paddingTop="@dimen/_30sdp"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- Subtitle -->
+    <TextView
+        android:id="@+id/header_view_sub_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/_30sdp"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+
+
+</com.foodbox.app.HeaderView>

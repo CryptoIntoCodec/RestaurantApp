@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">"FoodBox"</string>
+    <string name="facebook_app_id">2211477845771076</string>
+    <string name="login">Einloggen</string>
+    <string name="logout">Ausloggen</string>
+    <string name="name">Name</string>
+    <string name="username">Nutzername</string>
+    <string name="mobile_number">Handynummer</string>
+    <string name="email_address">E-Mail-Addresse</string>
+    <string name="enter_email_address">E-Mail Adresse eingeben</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="password">Passwort</string>
+    <string name="register_this_account">"Sie haben noch keinen Account?"</string>
+    <string name="let_impress_you">
+"Lassen Sie sich von unseren Gerichten beeindrucken"
+</string>
+    <string name="hundred_restaurant">"100 Restaurants"</string>
+    <string name="discover">"Entdecken"</string>
+    <string name="offers_near_you">"Angebote in Ihrer Nähe"</string>
+    <string name="filter">Filter</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    <string name="manage_address">Adresse verwalten</string>
+    <string name="payment">Zahlung</string>
+    <string name="add_new_card">Neue Karte hinzufügen</string>
+    <string name="set_delivery_location">Lieferort festlegen</string>
+    <string name="search_place">"Suche nach Gegend, Straßenname ..."</string>
+    <string name="change_password">"Passwort ändern"</string>
+    <string name="favourites">"Favoriten"</string>
+    <string name="filters">"Filter"</string>
+    <string name="reset">"Zurücksetzen"</string>
+    <string name="edit_account">"Konto bearbeiten"</string>
+    <string name="address">"Adresse"</string>
+    <string name="restaurant">"Sangeetha"</string>
+    <string name="current_location">"Aktueller Standort"</string>
+    <string name="dish">"Gericht"</string>
+    <string name="home">"Zuhause"</string>
+    <string name="work">"Arbeit"</string>
+    <string name="other">"Andere"</string>
+    <string name="save">"Speichern"</string>
+    <string name="saved_addresses">"Gespeicherte Adressen"</string>
+    <string name="edit">"Bearbeiten"</string>
+    <string name="delete">"Löschen"</string>
+    <string name="delete_confirm">"Möchten Sie wirklich löschen?"</string>
+    <string name="orders">"Aufträge"</string>
+    <string name="apply_filter">"Filter anwenden"</string>
+    <string name="large_text">
+"Material ist die Metapher. \ N"                           "Näht, teilt den Raum und zeigt bewegliche Teile an."
+</string>
+    <string name="getting_address">"Adresse abrufen"</string>
+    <string name="fresh">F r e s h</string>
+    <string name="fresh_description">
+Entdecken Sie jeden Tag neue Gerichte und halten Sie Ihr Lieblingsrestaurant
+</string>
+    <string name="signin">Einloggen</string>
+    <string name="sign_in">Einloggen</string>
+    <string name="signup">Anmelden</string>
+    <string name="search">Suche</string>
+    <string name="search_description">
+Zeigen Sie Menüs, Fotos und Bewertungen für Restaurants in Ihrer Nähe an
+</string>
+    <string name="bookmark">Lesezeichen</string>
+    <string name="bookmark_description">
+Fügen Sie Ihrem Lesezeichen Orte hinzu, die Sie in Zukunft besuchen möchten
+</string>
+    <string name="already_you_have_account">Hast du schon einen Account?</string>
+    <string name="register_using">Registrieren Sie sich mit</string>
+    <string name="signin_here">Hier anmelden</string>
+    <string name="next">Nächster</string>
+    <string name="verification_code_txt">Verifizierungs-Schlüssel</string>
+    <string name="continue_txt">Fortsetzen</string>
+    <string name="confirm_password">Kennwort bestätigen</string>
+    <string name="new_password">Neues Kennwort</string>
+    <string name="change">Veränderung</string>
+    <string name="register">Registrieren</string>
+    <string name="cart_error_title">Gutes Essen wird immer gekocht</string>
+    <string name="cart_error_description">Bitte bestellen Sie das Geschirr</string>
+    <string name="proceed_to_pay">Weiter zur Zahlung</string>
+    <string name="add_address" translatable="false">Add Address</string>
+    <string name="change_address">Adresse ändern</string>
+    <string name="old_password">Altes Passwort</string>
+    <string name="select_address">Adresse auswählen</string>
+    <string name="submit">einreichen</string>
+    <string name="enter_secret_key">Geben Sie Ihren geheimen Schlüssel ein</string>
+    <string name="account" translatable="false">Account</string>
+    <string name="login_or_sign_up_to_place_order">
+Einloggen oder Registrieren, um eine Bestellung aufzugeben
+</string>
+    <string name="please_login_and_order_dishes">
+Bitte loggen Sie sich ein und bestellen Sie unsere Gerichte
+</string>
+    <string name="manage_address_error_title">Klopf klopf ! Wer ist da ?</string>
+    <string name="manage_address_error_description">
+Durch Speichern der Adresse können Sie schneller auschecken
+</string>
+    <string name="order_placed">Bestellung aufgegeben</string>
+    <string name="order_confirmed">Bestellung bestätigt</string>
+    <string name="order_processed">Bestellung verarbeitet</string>
+    <string name="order_pickedup">Abholung bestellen</string>
+    <string name="order_delivered">Bestellung geliefert</string>
+    <string name="order_cancelled">Bestellung storniert</string>
+    <string name="description_1">Wir haben Ihre Bestellung erhalten.</string>
+    <string name="description_2">Ihre Bestellung wurde bestätigt.</string>
+    <string name="description_3">Dein Essen wird gekocht.</string>
+    <string name="description_4">Ihr Essen ist unterwegs.</string>
+    <string name="description_5">Guten Appetit.</string>
+    <string name="order_delivered_successfully">Bestellung erfolgreich geliefert</string>
+    <string name="order_delivered_successfully_on">Bestellung erfolgreich geliefert am</string>
+    <string name="address_hint">Bsp .: Papas Platz, Johns Zuhause</string>
+    <string name="cancel">Stornieren</string>
+    <string name="wallet_amount">Brieftaschenbetrag</string>
+    <string name="card">KARTE</string>
+    <string name="pay_on_delivery">BEZAHLUNG BEI ZUSTELLUNG</string>
+    <string name="by_cash">Bar</string>
+    <string name="walletHistory">BRIEFTASCHE</string>
+    <string name="history">Geschichte</string>
+    <string name="add" translatable="false">Add</string>
+    <string name="promotion_details">Werbedetails</string>
+    <string name="add_money">Menge hinzufügen</string>
+    <string name="enter_the_amount">Geben Sie den Betrag ein</string>
+    <string name="pay">Zahlen</string>
+    <string name="promo_apply_text">
+Wenden Sie den Promo-Code an, um interessante Angebote zu erhalten
+</string>
+    <string name="apply">Anwenden</string>
+    <string name="promocode">Werbe-Code</string>
+    <string name="use_wallet">Verwenden Sie Promocode</string>
+    <string name="google_login_failed">Google-Anmeldung fehlgeschlagen</string>
+    <string name="dispute">Bestreiten</string>
+    <string name="oops_connect_your_internet">Hoppla ! Verbinden Sie Ihr Internet.</string>
+    <string name="retry">Wiederholen</string>
+    <string name="server_down">Server ausgefallen</string>
+    <string name="no_internet_found_check_your_internet_connection">
+Kein Internet gefunden. \ NÜberprüfen Sie Ihre Internetverbindung oder versuchen Sie es erneut
+</string>
+    <string name="loading">Wird geladen....</string>
+    <string name="paypal_billing_agreement">Abrechnungsvereinbarung</string>
+    <string name="nonce">Nuntius</string>
+    <string name="processing_transaction">Transaktion wird verarbeitet</string>
+    <string name="transaction_failed">Transaktion fehlgeschlagen</string>
+    <string name="transaction_complete">Transaktion abgeschlossen</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="replace_cart_item">Warenkorb ersetzen?</string>
+    <string name="do_you_want_to_discart_the_selection_and_add_dishes_from_the_restaurant">
+Möchten Sie die ausgewählten Gerichte verwerfen und Gerichte aus diesem Restaurant hinzufügen?
+</string>
+    <string name="enter_card_details">Kartendetails nicht gültig</string>
+    <string name="add_card" translatable="false">Add card</string>
+    <string name="okay">Okay</string>
+    <string name="promo_code_apply_successfully">
+Der Promocode wird angewendet und der Angebotsbetrag wird Ihrer Brieftasche hinzugefügt.
+</string>
+    <string name="please_enter_username">Bitte geben Sie Ihren Benutzernamen ein</string>
+    <string name="please_enter_your_email">Bitte geben Sie ihre E-Mail-Adresse ein</string>
+    <string name="please_enter_valid_email">Bitte eine gültige Email eingeben</string>
+    <string name="please_enter_your_mobile_number">Bitte geben sie ihre Mobiltelefonnummer ein</string>
+    <string name="please_enter_password">Bitte geben Sie Ihr Passwort ein</string>
+    <string name="please_enter_your_confirm_password">Bitte geben Sie Ihr Passwort ein</string>
+    <string name="password_and_confirm_password_doesnot_match">
+Passwort und Passwort bestätigen stimmen nicht überein
+</string>
+    <string name="profile_updated_successfully">Profil erfolgreich aktualisiert.</string>
+    <string name="network_error_toast">Etwas ist schief gelaufen</string>
+    <string name="add_ons">AddOns</string>
+    <string name="custom_notes">Benutzerdefinierte Notizen</string>
+    <string name="write_something">Schreibe etwas</string>
+    <string name="product">Produkt</string>
+    <string name="customize">Anpassen</string>
+    <string name="your_previous_customization">Ihre vorherige Anpassung</string>
+    <string name="i_will_choose">Ich werde wählen</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="remove_item_from_cart">Artikel aus dem Warenkorb entfernen</string>
+    <string name="remove_item_from_cart_description">
+Der Artikel wurde mehrfach angepasst. Zum Warenkorb gehen, um Artikel zu entfernen?
+</string>
+    <string name="add_custom_notes" translatable="false">Add Custom Notes</string>
+    <string name="featured_products">Vorgestellte Produkte</string>
+    <string name="reorder_confirm_message">
+Ihr Warenkorb enthält Gerichte von %1$s. Möchten Sie die Auswahl verwerfen und Gerichte aus %2$s hinzufügen?
+</string>
+    <string name="no_result">Keine Ergebnisse</string>
+    <string name="what_is_love">was ist Liebe</string>
+    <string name="fav_description">
+Sobald Sie ein Restaurant als Favorit ausgewählt haben, wird es hier angezeigt.
+</string>
+    <string name="close">Schließen</string>
+    <string name="no_addons">Keine Addons</string>
+    <string name="add_new_address">Neue Adresse hinzufügen</string>
+    <string name="back">zurück</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="looks_empty">Sieht leer aus!</string>
+    <string name="order_list_empty_description">
+Es gibt viele leckere Sachen da draußen. Nimm welche.
+</string>
+    <string name="past_orders">Vergangene Bestellungen</string>
+    <string name="reason">Grund</string>
+    <string name="dispute_reason_description">
+Stehen Sie vor einem Problem, bei dem wir helfen können? Bitte sprechen Sie uns an, wir helfen Ihnen gerne weiter!
+</string>
+    <string name="chat_us">Chatten Sie mit uns</string>
+    <string name="please_type_verification_code">Bitte geben Sie den Bestätigungscode ein</string>
+    <string name="did_not_get_otp">OTP nicht erhalten</string>
+    <string name="resend_otp">OTP erneut senden</string>
+    <string name="add_item" translatable="false">Add Item</string>
+    <string name="promotion_list_empty">Aktionsliste leer</string>
+    <string name="promotion_empty_description">
+Sobald Sie einen Promotion-Code haben, wird dieser hier angezeigt.
+</string>
+    <string name="skip">Überspringen</string>
+    <string name="food">Essen</string>
+    <string name="help">Hilfe</string>
+    <string name="type_a_message">Geben Sie eine Nachricht ein</string>
+    <string name="my_account">Mein Konto</string>
+    <string name="reorder">Nachbestellen</string>
+    <string name="please_login">Bitte loggen Sie sich ein</string>
+    <string name="no_restaurant_found">No Restaurants!</string>
+    <string name="no_restaurant_found_in_your_location">
+Überprüfen Sie, ob ein anderer Filter funktioniert.
+</string>
+    <string name="something_went_wrong">Etwas ist schief gelaufen!</string>
+    <string name="closed">Geschlossen</string>
+    <plurals name="item">
+        <item quantity="one">%d Item</item>
+        <item quantity="other">%d Items</item>
+    </plurals>
+    <plurals name="add_ons">
+        <item quantity="one">+%d Add-On</item>
+        <item quantity="other">+%d Add-Ons</item>
+    </plurals>
+
+    <string-array name="profile_settings">
+        <item>"Adresse verwalten"</item>
+        <item>"Favoriten"</item>
+        <item>"Zahlung"</item>
+        <item>"Meine Bestellungen"</item>
+        <item>"Werbedetails"</item>
+        <item>"Sprache ändern"</item>
+        <item>"Passwort ändern"</item>
+    </string-array>
+
+    <!--
+     Generated by Automatic String Resource Translation
+    -->
+    <!--
+              https://asrt.gluege.boerde.de
+    -->
+</resources>
